@@ -1,0 +1,87 @@
+#article-container {
+  font-size: 16px;
+}
+#article-container code {
+  font-family: rubik, BlinkMacSystemFont, -apple-system, microsoft yahei,
+    sans-serif !important;
+  background: linear-gradient(to right, #cff0ff, #afcafd);
+  color: #000;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  padding: 0.1rem 0.3rem 0.2rem;
+  border-radius: 8px;
+  opacity: 0.9;
+}
+[data-theme='dark'] #article-container code {
+  font-family: rubik, BlinkMacSystemFont, -apple-system, microsoft yahei,
+    sans-serif !important;
+  background: linear-gradient(220.55deg, #ffd439 0%, #ff7a00 100%);
+  color: #000;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  padding: 0.1rem 0.3rem 0.2rem;
+  border-radius: 8px;
+  opacity: 0.9;
+}
+
+#article-container a {
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 1px 1px;
+  text-decoration: none;
+  transition: all 0.35s ease;
+  background-image: linear-gradient(50deg, #f6d365 0%, #fda085 100%);
+}
+
+#article-container a:hover {
+  -webkit-text-fill-color: #000;
+  background-size: 4px 50px;
+}
+
+.myspan-info {
+  background-color: #67c23a;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid #67c23a;
+}
+.myspan-info::before {
+  content: '\f582';
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  padding-right: 5px;
+}
+
+.myspan-warn {
+  background-color: #e6a23c;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid #e6a23c;
+}
+.myspan-warn::before {
+  content: '\f119';
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  padding-right: 5px;
+}
+
+.myspan-danger {
+  background-color: #f56c6c;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid #f56c6c;
+}
+.myspan-danger::before {
+  content: '\f556';
+  font-family: 'Font Awesome 6 Free';
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  padding-right: 5px;
+}

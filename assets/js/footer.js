@@ -41,6 +41,6 @@ function showDateTime() {
 }
 function customText() {
   $('.footer_custom_text').html(
-    ' <img style="vertical-align:middle" src="https://blog.lichenghao.cn/upload/2022/04/beian.png"><a style="text-decoration: none;" target="_blank" href="https://beian.miit.gov.cn">京ICP备18059158号-4</a>. 辽公网安备21132102000028号.'
+    ' <img style="vertical-align:middle" src="/assets/images/beian.png"><a style="text-decoration: none;" target="_blank" href="https://beian.miit.gov.cn">京ICP备18059158号-4</a>. 辽公网安备21132102000028号.'
   )
 }

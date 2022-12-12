@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lichenghao.cn/tags/index.html</loc>
+    <loc>https://blog.lichenghao.cn/categories/index.html</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lichenghao.cn/categories/index.html</loc>
+    <loc>https://blog.lichenghao.cn/tags/index.html</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -301,6 +301,20 @@
   </url>
   
   <url>
+    <loc>https://blog.lichenghao.cn/tags/Twitter/</loc>
+    <lastmod>2022-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lichenghao.cn/tags/%E5%9F%83%E9%9A%86%E9%A9%AC%C2%B7%E6%96%AF%E5%85%8B/</loc>
+    <lastmod>2022-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.lichenghao.cn/tags/github/</loc>
     <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -316,20 +330,6 @@
   
   <url>
     <loc>https://blog.lichenghao.cn/tags/Epic-Games/</loc>
-    <lastmod>2022-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lichenghao.cn/tags/Twitter/</loc>
-    <lastmod>2022-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.lichenghao.cn/tags/%E5%9F%83%E9%9A%86%E9%A9%AC%C2%B7%E6%96%AF%E5%85%8B/</loc>
     <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -371,14 +371,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lichenghao.cn/tags/%E9%93%B2%E5%B1%8E%E5%AE%98/</loc>
+    <loc>https://blog.lichenghao.cn/tags/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.lichenghao.cn/tags/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/</loc>
+    <loc>https://blog.lichenghao.cn/tags/%E9%93%B2%E5%B1%8E%E5%AE%98/</loc>
     <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

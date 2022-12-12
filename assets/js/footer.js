@@ -6,13 +6,10 @@ $(document).ready(function (e) {
 $(document).ready(function (e) {
   showDateTime()
 })
-$(document).ready(function (e) {
-  customText()
-})
 //本站运行时间
 function showDateTime() {
   $('.framework-info').html(
-    '本站已运行 <span id="span_dt_dt" style="color: #fff;"></span> '
+    '运行 <span id="span_dt_dt" style="color: #fff;"></span> '
   )
   window.setTimeout('showDateTime()', 1000)
   BirthDay = new Date('1/1/2022 0:0:0')
@@ -38,9 +35,4 @@ function showDateTime() {
     '</font> 分 <font style="color:#a3cf62">' +
     seconds +
     '</font> 秒'
-}
-function customText() {
-  $('.footer_custom_text').html(
-    ' <img style="vertical-align:middle" src="/assets/images/beian.png"><a style="text-decoration: none;" target="_blank" href="https://beian.miit.gov.cn">京ICP备18059158号-4</a>. 辽公网安备21132102000028号.'
-  )
 }
